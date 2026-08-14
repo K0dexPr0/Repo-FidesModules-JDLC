@@ -1,0 +1,48 @@
+{
+  "repo_name": "Repositorio Oficial Fides",
+  "repo_version": 1,
+  "modules": [
+    {
+      "id": "rv1960",
+      "title": "Reina-Valera 1960",
+      "abbreviation": "RVR60",
+      "type": "BIBLE",
+      "language": "es",
+      "size_bytes": 4718592,
+      "module_version": 1,
+      "checksum": null,
+      "author": "Sociedades Bíblicas Unidas",
+      "license": "Dominio público / uso permitido",
+      "description": "La versión Reina-Valera 1960, la traducción al español más usada en el mundo hispanohablante.",
+      "download_url": "https://raw.githubusercontent.com/K0dexPr0/Repo-FidesModules-JDLC/main/modules/rv1960.bbl.mybible"
+    },
+    {
+      "id": "matthew_henry",
+      "title": "Comentario de Matthew Henry",
+      "abbreviation": "MHC",
+      "type": "COMMENTARY",
+      "language": "es",
+      "size_bytes": 15728640,
+      "module_version": 1,
+      "checksum": null,
+      "author": "Matthew Henry",
+      "license": "Dominio público",
+      "description": "Comentario bíblico completo, clásico y devocional, versículo por versículo.",
+      "download_url": "https://raw.githubusercontent.com/K0dexPr0/Repo-FidesModules-JDLC/main/modules/matthew_henry.cmt.mybible"
+    },
+    {
+      "id": "strong_es",
+      "title": "Diccionario Strong (Español)",
+      "abbreviation": "STR",
+      "type": "DICTIONARY",
+      "language": "es",
+      "size_bytes": 3145728,
+      "module_version": 1,
+      "checksum": null,
+      "author": "James Strong",
+      "license": "Dominio público",
+      "description": "Diccionario de palabras hebreas y griegas del texto bíblico, con números Strong.",
+      "download_url": "https://raw.githubusercontent.com/K0dexPr0/Repo-FidesModules-JDLC/main/modules/strong_es.dct.mybible"
+    }
+  ]
+}
